@@ -42,7 +42,7 @@
       }
       .ativo {
         background-color: var(--botao-ativo);
-        border-bottom: var(--verde);
+        border-bottom: 4px solid var(--verde);
       }
      .botao:first-child{ 
       border-radius: 40px 40px 0 0;
